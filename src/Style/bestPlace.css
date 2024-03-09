@@ -1,0 +1,20 @@
+.place-card{
+    border: 1px solid #dedede;
+    border-radius: 20px;
+    /* display: ; */
+    width: 250px;
+    padding: 15px;
+    margin: 8px 10px;
+    text-align: center;
+    
+}
+.best-place-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px auto;
+}
+
+.best-place{
+    padding: 20px 5%;
+}

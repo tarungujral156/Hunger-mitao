@@ -1,0 +1,19 @@
+.footer {
+
+  background-color: rgb(2, 6, 12);
+  color: antiquewhite;
+  display: flex;
+  justify-content: space-around;
+  align-items: start;
+
+  padding:50px 15% 200px  15%;
+
+}
+.footer-item {
+    font-size: smaller;
+}
+.footer-item>h3 {
+    margin: 10px;
+    /* font-size: smaller; */
+    font-weight: 200;
+}

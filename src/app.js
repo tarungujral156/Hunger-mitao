@@ -27,7 +27,7 @@ import Body from "./components/Body";
 const App = () => {
   return (
     <div>
-      <Header />;
+      <Header />
       <Body resList={resList} />
     </div>
   );

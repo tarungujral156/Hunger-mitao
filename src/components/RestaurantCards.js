@@ -1,6 +1,10 @@
 import RestaurantCard from "./RestaurantCard";
 
+
 const RestaurantCards = (props) => {
+  
+
+  
   return (
     <div>
       <div className="restaurants">

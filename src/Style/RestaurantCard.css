@@ -1,0 +1,47 @@
+.rest-card{
+    width:220px;
+    height: 350px;
+    box-shadow: 2px 2px 5px #b7b7b7;
+    margin: 10px;
+}
+.rest-card:hover{
+    cursor: pointer;
+}
+.rest-image{
+    width: 100%;
+    height: 55%;
+    
+}
+.rest-image> img{
+   width: 100%;
+   height: 100%;
+   z-index: -1;
+
+}
+
+.image-shadow{
+    width: 220px;
+    height: 192.5px;
+    display: inline;
+    position: absolute;
+    z-index: 1;
+    box-shadow: inset 0px -50px 60px rgba(0, 0, 0, 3);
+}
+
+
+
+.rest-details{
+    padding: 10px;
+}
+
+#rest-name{
+    margin: 5px 0 10px 0;
+}
+
+.rest-avg-rating{
+    display: inline;
+    margin-right: 20px;
+}
+.min-delivery-time{
+    display: inline;
+}
